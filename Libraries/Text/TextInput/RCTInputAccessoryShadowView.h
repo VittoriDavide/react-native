@@ -5,8 +5,8 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#import <UIKit/UIKit.h>
+#import <React/RCTShadowView.h>
 
-@interface RCTInputAccessoryViewContent : UIView
+@interface RCTInputAccessoryShadowView : RCTShadowView
 
 @end
